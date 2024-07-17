@@ -1,0 +1,14 @@
+{
+  "apiKey": "sk-4AappcOza7RBK6zvwJ46vILnkO8w4QjsYb+TwqG2fsHHCHU/",
+  "photoConfig": {
+	"negative_prompt": "worst quality, large head, low quality, extra digits, bad eye, EasyNegativeV2, ng_deepnegative_v1_75t",
+	"enableTile": false,
+	"samplingSteps": 30,
+	"cfgScale": 5.0,
+	"upscale": 1.0,
+	"width": 768,
+	"height": 1280,
+	"sampler": "DPM++ 2M Karras",
+	"modelId": "1648918127446573124"
+  }
+}
